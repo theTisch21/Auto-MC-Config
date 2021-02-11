@@ -1,0 +1,6 @@
+gamma:0.0
+autoJump:tutorialStep
+tutorialStep:movement
+soundCategory_music:1.0
+music:1.0
+skipMultiplayerWarning:false

@@ -1,0 +1,23 @@
+{
+  "name": "auto-mc-config",
+  "version": "1.0.0",
+  "description": "This is a script written in Node.js to automatically disable auto-jump among other things in minecraft",
+  "main": "config.js",
+  "dependencies": {
+    "js-yaml": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theTisch21/Auto-MC-Config.git"
+  },
+  "author": "theTisch21",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/theTisch21/Auto-MC-Config/issues"
+  },
+  "homepage": "https://github.com/theTisch21/Auto-MC-Config#readme"
+}

@@ -1,0 +1,20 @@
+#true: disable auto jump
+#false: leave auto jump untouched
+autoJump: true
+
+#true: disable ingame music
+#false: leave music untouched
+music: true
+
+#true: disable the tutorial (use WASD to move and other stuff)
+#false: leave tutorial untouched
+tutorial: true
+
+#true: change brightness to "bright"
+#false: leave brigntness unchanged
+gamma: true
+
+#true: disable the online warning that pops up when you try to play multiplayer
+#false: Show it like normal
+multiplayer: true
+
