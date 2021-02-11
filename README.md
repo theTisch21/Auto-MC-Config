@@ -27,7 +27,7 @@ Step 5: Go to "Custom Commands"
 
 Step 6: Put this in "startup script":
 `node "../../../Auto-MC-Config/config.js"`
-<!--Screenshot here--> 
+![image](https://user-images.githubusercontent.com/20461232/107690088-8213e680-6c5e-11eb-9be6-476ea3c9e331.png)
 
 Step 4: The script will now disable/enable specific settings each time you launch an instance. To cusomize those settings, use config.yaml in the Auto-MC-Config folder
 
