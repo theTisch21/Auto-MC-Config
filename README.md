@@ -11,21 +11,25 @@ This is a script written in Node.js to automatically disable auto-jump among oth
 This script is designed for MultiMC
 
 Prerequisites: 
+Windows (I haven't tested this on any other os)
+Node.JS
+Familiarity with command prompt or powershell
 
 Step 1: Download code
 
-Step 2: run install.bat or install.sh
-This will run `npm i` to install all the dependencies. You can also use that command directly in a terminal inside the directory of this repository.
+Step 2: Paste the Auto-MC-Config folder into your multimc root directory (The full path should look something like C:\Users\username\MultiMC\Auto-MC-Config)
 
-Step 3: Open global settings in MultiMC (Not instance settings)
+Step 3: Open a terminal, navigate to the Auto-MC-Config folder, and run `npm i` to install the dependencies
 
-Step 4: Go to "Custom Commands"
+Step 4: Open global settings in MultiMC (Not instance settings)
 
-Step 5: Put this in "startup script":
-`node "../../../Auto configurator/config.js"`
+Step 5: Go to "Custom Commands"
+
+Step 6: Put this in "startup script":
+`node "../../../Auto-MC-Config/config.js"`
 <!--Screenshot here--> 
 
-Step 4: The script will now disable/enable specific settings each time you launch an instance. To cusomize those settings, use config.yaml
+Step 4: The script will now disable/enable specific settings each time you launch an instance. To cusomize those settings, use config.yaml in the Auto-MC-Config folder
 
 ## FAQ
 - Why did I write this in Node?
