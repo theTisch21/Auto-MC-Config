@@ -11,9 +11,10 @@ This is a script written in Node.js to automatically disable auto-jump among oth
 This script is designed for MultiMC
 
 Prerequisites: 
-Windows (I haven't tested this on any other os)
-Node.JS
-Familiarity with command prompt or powershell
+MultiMC: [MultiMC/MultiMC5](https://github.com/MultiMC/MultiMC5)  
+Windows (I haven't tested this on any other os)  
+Node.JS  
+Familiarity with command prompt or powershell  
 
 Step 1: Download code
 
