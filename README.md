@@ -33,8 +33,8 @@ Step 6: Put this in "startup script":
 Step 4: The script will now disable/enable specific settings each time you launch an instance. To cusomize those settings, use config.yaml in the Auto-MC-Config folder
 
 ## FAQ
-- Why did I write this in Node?
+- Why did you write this in Node?  
 Because I like node
 
-- Can you make this work for the official launcher?
+- Can you make this work for the official launcher?  
 Maybe. If you find a way to make the default launcher run a script on startup of any installation, I can help you make the script work for it. However, my script depends on environment variables passed by MultiMC.
