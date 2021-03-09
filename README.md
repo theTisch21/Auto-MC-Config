@@ -1,8 +1,9 @@
 # Auto-MC-Config
 
 ## WARNING
-I am aware that it only works for 1.15+. If you want to use it on a lower version, you first have to open the instance, then click the "open .minecraft folder" button to generate a .minecraft folder for the script to work with. 
-I have posted an issue on the multimc github: [MultiMC/MultiMC5#3602](https://github.com/MultiMC/MultiMC5/issues/3602)
+I am aware that it only works for 1.15+. If you want to use it on a lower version, you first have to open the instance, then click the "open .minecraft folder" button to generate a .minecraft folder for the script to work with.  
+~~I have posted an issue on the multimc github: [MultiMC/MultiMC5#3602](https://github.com/MultiMC/MultiMC5/issues/3602)~~  
+I have made a pull request! If it is merged, this problem will be fixed in the next release: [MultiMC/MultiMC5#3649](https://github.com/MultiMC/MultiMC5/pull/3649)
 
 ## What does this do?
 This is a script written in Node.js to automatically disable auto-jump among other things in minecraft
