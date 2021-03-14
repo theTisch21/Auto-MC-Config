@@ -63,7 +63,9 @@ async function config() {
 
     console.log("Writing file")
     fs.writeFileSync(path.join(instdir, 'options.txt'), Buffer.from(string, 'utf8'))
-    console.log("File written. Starting instance")
+
     
 }
-//config()
+config().then(() => {
+    console.log("Configuration complete. Starting instance")
+})
